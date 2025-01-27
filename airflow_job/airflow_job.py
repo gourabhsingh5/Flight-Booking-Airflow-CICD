@@ -71,6 +71,7 @@ with DAG(
                 "service_account": "854633911119-compute@developer.gserviceaccount.com",
                 "network_uri": "projects/psychic-medley-446820-m5/global/networks/default",
                 "subnetwork_uri": "projects/psychic-medley-446820-m5/regions/us-central1/subnetworks/default",
+                "max_workers": 2
             }
         },
     }
